@@ -1,0 +1,45 @@
+!
+###########################################################################
+                 i     x i                                              vvv
+                               ccc                             ccccc    v v
+p                              cc                                cc     vuv
+                                      h         h         h       c     vuv
+                                                                        vuv
+                                                                        vuv
+                                                                        vuv
+      riiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  iiuv
+     r      q                                                  q        vuv
+    r                     h                   h                         vwv
+   r         x                      x                        x           v
+  r             ccccccccccccccccccccccccccccccccccccccccccccc
+ r              ccccccccccccccccccccccccccccccccccccccccccccc
+r
+                                                                    
+     jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+             i6666666666666666666666666666666666666666666ig             vvv
+                                                                        v v
+                   x                                                    vuv
+             h             h           h             h                  vuv
+                                                                        vuv
+                                                                        vuv
+                                                                        vuv
+      riiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  iiiuv
+     r     #   x     #          #################                       vuv
+    r                             #############              h          vwv
+   r                                qx      q                            v
+  r                                 cccccccc
+ r                                   cccccc
+r
+
+    jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+         #x      #      #       x#      #      #                        vvv
+                                             h                          v v
+                                                            ccccccc     vuv
+                                                    f          ccccc    vuv
+                                                                        vuv
+                                                                        vuv
+                                                                        vuv
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn  nnnuv
+e                                                                       vuv
+                  cccccc    cccccc   zcccccc    cccccc    cccccc        vwv
+                cccccc    cccccc    cccccc    cccccc    cccccc           v
